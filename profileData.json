@@ -1,0 +1,115 @@
+{
+  "name": "Shabeer Mohamed",
+  "headline": "Driving Enterprise Cloud Transformation | Oracle | Ex-IBM | Future Tech Leader | Building New-Age Ventures",
+  "location": "Bangalore, India",
+  "about": "With over 25 years of experience across global technology leaders like Oracle, IBM, Novell, and Aptech, I’ve helped organisations navigate some of the most pivotal shifts in enterprise IT.\n\nAt Oracle, I lead high-impact teams driving digital transformation for India’s top enterprises—helping them modernise, migrate, and maximise ROI across the full OCI portfolio (IaaS & PaaS), including cutting-edge technologies like Autonomous Database, Cloud Data Lake houses, and High-Performance Computing.\n\nMy core strength lies in aligning business strategy with technology outcomes. Over the years, I’ve enabled mission-critical cloud migrations, scaled complex sales operations, and delivered consistent value across industries by focusing on both client success and sustainable innovation.\n\nBefore this, I was part of the IBM Watson Customer Engagement APAC Leadership Team, where I spearheaded Commercial Segment Sales across Australia, ASEAN, Korea, and India/South Asia. Collaborating with top-tier sales, consulting, and technical teams, I gained invaluable exposure to AI-driven customer engagement and cross-border enterprise sales.\n\nWith nearly three decades in IT solutions (Software, Hardware, Cloud – IAAS/PAAS/SAAS), I’ve successfully led high-performing teams in Large Account Management, Sales Operations, and Territory Management. My track record includes:\n\n✅ Consistent double-digit revenue growth\n✅ Single-digit attrition in competitive markets\n✅ Multiple Best Leader/Manager accolades\n\nIndustry Expertise: BFSI, Pharma, Defence/Academia, Manufacturing, Retail, and Development Houses.\n\nPassionate about scaling cloud adoption, mentoring talent, and delivering transformative business outcomes. Let’s connect if you’re exploring cloud innovation, AI, or enterprise sales strategies!",
+  "photoUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFkTmTUYPSb2w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1659418904963?e=1764201600&v=beta&t=jdxGZoF1CetkIPjHzVhxxLGAU5PSu1HRF1vRjXKBs3o",
+  "experience": [
+    {
+      "title": "Senior Director and Country Sales Head - Tech Cloud",
+      "company": "Oracle",
+      "start_date": "June 2020",
+      "end_date": "Present",
+      "location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "title": "Sales Director - Cloud Computing (West)",
+      "company": "Oracle",
+      "start_date": "August 2019",
+      "end_date": "May 2020",
+      "location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "title": "Associate Director - APAC Sales - IBM Watson Customer Engagement Offerings",
+      "company": "IBM",
+      "start_date": "July 2016",
+      "end_date": "August 2019",
+      "location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "title": "Country Sales Leader / Business Unit Executive - Software & SAAS Annuity Business",
+      "company": "IBM",
+      "start_date": "January 2011",
+      "end_date": "June 2016",
+      "location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "title": "General Manager - Country Sales Operations - Software Group",
+      "company": "IBM",
+      "start_date": "January 2009",
+      "end_date": "December 2010",
+      "location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "title": "Deputy General Manager - Software Group Sales",
+      "company": "IBM",
+      "start_date": "May 2005",
+      "end_date": "December 2008",
+      "location": "Bangalore"
+    },
+    {
+      "title": "Business Development Manager",
+      "company": "Novell India",
+      "start_date": "December 2003",
+      "end_date": "May 2005",
+      "location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "title": "Business Development Manager - Institutional Business",
+      "company": "Aptech Limited",
+      "start_date": "January 2001",
+      "end_date": "December 2003",
+      "location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "title": "Business Development Manager",
+      "company": "Kalki Communication Technologies",
+      "start_date": "March 1999",
+      "end_date": "January 2001",
+      "location": "Bengaluru, Karnataka, India"
+    }
+  ],
+  "domain_expertise": [
+    "FSS/BFSI",
+    "Pharma",
+    "Development Houses",
+    "Defense/Academic",
+    "Manufacturing",
+    "Retail"
+  ],
+  "education": [
+    {
+      "institution": "Rajagiri Centre for Business Studies",
+      "degree": "MBA in Marketing",
+      "startDate": "1996",
+      "endDate": "1998",
+      "description": "summa cum laude"
+    }
+  ],
+  "skills": [
+    "Employee Engagement",
+    "Business Management",
+    "Technology and Solution Sales",
+    "Cloud Sales",
+    "Marketing",
+    "Enterprise Sales",
+    "Large Complex Deals",
+    "Negotiations",
+    "Channel Sales",
+    "Digital Natives and ISVs"
+  ],
+  "projects": [
+    {
+      "name": "Fabrication of INSAT Hardware on Deckel Milling Machines",
+      "link": "URL (if any)",
+      "description": "This project done as a part of my Engineering Course involved the precise manufacturing of satellite hardware components using Deckel milling machines at the Vikram Sarabhai Space Centre (VSSC). This fabrication work supports the assembly and integration of INSAT satellite systems, which are critical for communication and meteorological functions. The project emphasises high-precision machining of structural and avionics mounting parts, ensuring conformity to stringent aerospace standards for flight hardware used in India's INSAT satellite program. The work at VSSC's specialised facilities in Thumba showcases their capability for advanced hardware production essential to satellite launch vehicle subsystems and satellite payloads"
+    }
+  ],
+  "socialLinks": {
+    "linkedIn": "https://www.linkedin.com/in/shabeermohamed/",
+    "github": "https://github.com/shabeerresni",
+    "email": "shabeer_mk@eoutlook.com"
+  }
+}
+
+
